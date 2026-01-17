@@ -61,7 +61,7 @@ This project models a fictional Airbus‑style Mode Control Panel (MCP) using XM
 - Clear explanations of system behavior and interactions  
 
 **Explore the project:**  
-➡️ [A320 Mode Configuation Panel XML](
+➡️ [A320 Mode Configuation Panel XML](https://github.com/mkzim13/vmcp-xml-xslt-demo)
 
 ---
 
