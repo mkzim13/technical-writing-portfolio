@@ -46,7 +46,7 @@ A complete, end‑to‑end documentation set for a fictional PDF‑conversion AP
 - Consistent, developer‑friendly structure  
 
 **Explore the project:**  
-➡️ `documagic-api-docs/`
+➡️ [Documagic API Documentation](https://github.com/mkzim13/documagic-api-docs)
 
 ---
 
@@ -61,7 +61,7 @@ This project models a fictional Airbus‑style Mode Control Panel (MCP) using XM
 - Clear explanations of system behavior and interactions  
 
 **Explore the project:**  
-➡️ `a320-mcp-xml-project/`
+➡️ [A320 Mode Configuation Panel XML](
 
 ---
 
@@ -116,7 +116,7 @@ I bring a unique blend of engineering training (computer science and aeronautics
 
 If you’d like to talk about documentation, developer experience, or technical writing:
 
-**Email:** _your email here_  
+**Email:** marczim@yahoo.com_  
 **GitHub:** _your GitHub profile link_  
 **LinkedIn:** _optional_
 
