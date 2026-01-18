@@ -21,7 +21,7 @@ These two samples demonstrate my range across API documentation and structured X
   A fictional avionics component documented using XML, XSLT, and structured content principles. Demonstrates my ability to model complex systems, create schemas, and produce clear, modular technical documentation.  
   ➡️ [A320 Mode Configuation Panel XML](https://github.com/mkzim13/vmcp-xml-xslt-demo)
 
-### **2. 📄 My Resume
+### **2. 📄 My Resume**
 [View resume](./resume.md)
 
 ### **3. My Writing Strengths**
