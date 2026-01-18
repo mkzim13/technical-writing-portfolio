@@ -15,13 +15,16 @@ These two samples demonstrate my range across API documentation and structured X
 
 - **DocuMagic PDF API Documentation**  
   A complete, end‑to‑end API documentation set including a User Guide, Reference Guide, diagrams, and a GitHub‑ready README.  
-  ➡️ `documagic-api-docs/`
+  ➡️ [Documagic API Documentation](https://github.com/mkzim13/documagic-api-docs)
 
 - **A320‑Style Mode Control Panel (XML Project)**  
   A fictional avionics component documented using XML, XSLT, and structured content principles. Demonstrates my ability to model complex systems, create schemas, and produce clear, modular technical documentation.  
-  ➡️ `a320-mcp-xml-project/`
+  ➡️ [A320 Mode Configuation Panel XML](https://github.com/mkzim13/vmcp-xml-xslt-demo)
 
-### **2. My Writing Strengths**
+### **2. 📄 My Resume
+[View resume](./resume.md)
+
+### **3. My Writing Strengths**
 - API documentation (REST, authentication, OAuth, rate limits, versioning)  
 - Structured content design (DITA‑influenced)  
 - XML, XSLT, JSON, Markdown  
@@ -29,7 +32,7 @@ These two samples demonstrate my range across API documentation and structured X
 - Diagrams and workflow modeling  
 - Clear, accessible explanations of complex systems  
 
-### **3. My Background**
+### **4. My Background**
 I bring a unique blend of engineering training (computer science and aeronautics) and hands‑on technical writing experience. My work is shaped by systems thinking, precision, and a focus on clarity and usability.
 
 ---
