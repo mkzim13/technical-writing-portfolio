@@ -92,8 +92,6 @@ Structured content for the A320‑style Mode Control Panel, including schema, co
 
 ---
 
-## Additional Samples
-
 ## Additional Writing & Instructional Samples
 
 These projects demonstrate my ability to analyze audiences, structure instructional content, and produce clear, user‑focused documentation across a variety of domains. Each sample includes a project narrative and supporting artifacts.
