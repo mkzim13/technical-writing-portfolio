@@ -92,6 +92,46 @@ Structured content for the A320‑style Mode Control Panel, including schema, co
 
 ---
 
+## Additional Samples
+
+## Additional Writing & Instructional Samples
+
+These projects demonstrate my ability to analyze audiences, structure instructional content, and produce clear, user‑focused documentation across a variety of domains. Each sample includes a project narrative and supporting artifacts.
+
+---
+
+### Babka Recipe Website — Instructional Design Sample
+A beginner‑friendly instructional project focused on breaking down a complex baking process into clear, approachable steps. Includes a narrative describing constraints, usability testing, and design decisions, along with screenshots of the final recipe website.
+
+**Repository:** [link to babka repo]  
+**Highlights:** instructional clarity, chunking, visual support, usability feedback
+
+---
+
+### Superfoods Informational Brochure — Health Communication Sample
+A two‑sided tri‑fold brochure designed for parents seeking quick, practical guidance on incorporating superfoods into family meals. Includes audience analysis, reading‑level considerations, and design constraints.
+
+**Repository:** [link to superfoods repo]  
+**Highlights:** audience analysis, plain‑language writing, visual layout, Canva production
+
+---
+
+### Foster Care Toolkit — Web‑Based Instructional Resource
+A Google Sites toolkit created to support new foster parents during the first 30 days of placement. Provides explanations of requirements, links to forms, and guidance on navigating legal, medical, and educational responsibilities.
+
+**Repository:** [link to foster care toolkit repo]  
+**Highlights:** structured navigation, empathetic instructional tone, resource integration
+
+---
+
+### Fundraiser Toolkit Website — Nonprofit Event Planning Resource
+A practical website designed to help small nonprofits plan fundraising events. Built around user interviews, persona development, and a detailed audience analysis. Includes templates, checklists, and guidance on free or low‑cost tools.
+
+**Repository:** [link to fundraising toolkit repo]  
+**Highlights:** audience research, persona/empathy/journey mapping, collaborative design
+
+---
+
 # 🛠️ Skills & Focus Areas
 
 - API documentation (REST, authentication, OAuth, rate limits, versioning)  
