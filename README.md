@@ -117,7 +117,7 @@ A two‑sided tri‑fold brochure designed for parents seeking quick, practical 
 ### Foster Care Toolkit — Web‑Based Instructional Resource
 A Google Sites toolkit created to support new foster parents during the first 30 days of placement. Provides explanations of requirements, links to forms, and guidance on navigating legal, medical, and educational responsibilities.
 
-**Repository:** [link to foster care toolkit repo] (https://github.com/mkzim13/Foster-care-toolkit) 
+**Repository:** [link to foster care toolkit repo](https://github.com/mkzim13/Foster-care-toolkit) 
 **Highlights:** structured navigation, empathetic instructional tone, resource integration
 
 ---
@@ -125,7 +125,7 @@ A Google Sites toolkit created to support new foster parents during the first 30
 ### Fundraiser Toolkit Website — Nonprofit Event Planning Resource
 A practical website designed to help small nonprofits plan fundraising events. Built around user interviews, persona development, and a detailed audience analysis. Includes templates, checklists, and guidance on free or low‑cost tools.
 
-**Repository:** [link to fundraising toolkit repo]  (https://github.com/mkzim13/fundraiser-toolkit)
+**Repository:** [link to fundraising toolkit repo](https://github.com/mkzim13/fundraiser-toolkit)
 **Highlights:** audience research, persona/empathy/journey mapping, collaborative design
 
 ---
