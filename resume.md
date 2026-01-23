@@ -51,6 +51,8 @@ Massachusetts Institute of Technology — Cambridge, MA
 *September 1999 – June 2001*  
 - Led a study on the readability of formal requirements specification languages for avionics development.
 
+---
+
 ### **Graduate Research Assistant**  
 University of Washington — Seattle, WA  
 *June 1998 – June 1999*  
@@ -82,7 +84,7 @@ University of California, Davis — June 1997
 - Structured content design  
 - Technical guides, tutorials, and reference documentation  
 - Diagramming (Mermaid, workflow diagrams, sequence diagrams)  
-- Git/GitHub, VS Code, Postman, cURL  
+- Git/GitHub, VS Code, Canva, MS Office
 
 ---
 
@@ -92,4 +94,5 @@ University of California, Davis — June 1997
 - **A320‑Style Mode Control Panel (XML Project)** — XML schema, structured content, transformations  
 
 Full portfolio available on GitHub.
+
 
